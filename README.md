@@ -44,3 +44,5 @@ Select inference method (1: MIN, 2: PRODUCT): 2
 Enter patient temperature (37-40°C): 38.5
 
 Recommended dose (PRODUCT method): 5.00 units
+
+*Developed for the University of Piraeus*
