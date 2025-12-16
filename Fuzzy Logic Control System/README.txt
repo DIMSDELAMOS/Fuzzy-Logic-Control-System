@@ -1,0 +1,3 @@
+Option 3: Educational (If this is for a university project/assignment)
+
+"An educational implementation of a Fuzzy Inference System (FIS) developed in Python. This project calculates medication dosage based on temperature inputs by applying fuzzy logic principles. It serves as a demonstration of key concepts such as membership functions, rule aggregation, and different inference mechanisms (Mamdani vs. Larsen)."
